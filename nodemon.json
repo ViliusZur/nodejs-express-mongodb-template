@@ -1,0 +1,5 @@
+{
+  "watch": [".env", "./"],
+  "ext": "js,json,graphql,gql,ejs,py,svg",
+  "noUpdateNotifier": true
+}
